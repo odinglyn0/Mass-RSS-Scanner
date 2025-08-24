@@ -25,10 +25,10 @@ import (
 )
 
 const (
-	awsRegion              = "eu-west-1"
-	dynamoTableName        = "Orkavi-RSS"
-	s3Bucket               = "authentik-300m"
-	s3Key                  = "300m.txt"
+	awsRegion              = "YOUR_REGION"
+	dynamoTableName        = "YOUR_DYNAMODB_TABLE"
+	s3Bucket               = "YOUR_S3_BUCKET"
+	s3Key                  = "OUTPUT_FILENAME.txt"
 	scanPageLimit          = 2000
 	scannerConcurrency     = 1024
 	fetcherConcurrency     = 32768
