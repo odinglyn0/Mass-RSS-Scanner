@@ -1,4 +1,4 @@
-# Authentik Mass RSS Scanner
+# Mass RSS Scanner
 
 This is a personal tool developed solely for the purpose of scanning a database of 337 Million RSS feeds in DynamoDB, this is licenced under the Apache 2.0 licence. This serves a very specific purpose and might only be found useful to 1% of people that find this.
 
